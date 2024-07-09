@@ -1,0 +1,2 @@
+git remote add origin https://github.com/gkwekam/Final-Intern-Project.git
+git push -u origin master
